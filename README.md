@@ -6,7 +6,7 @@ Mugabe-MD
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/a22200a780671e0e32383.jpg"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="DeeCeeXxx :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{shellah}/count.svg" alt="masterchief :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/DeeCeeXxx/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeeCeeXxx?color=red&style=flat-square"></a>
 <a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Queen_Anita-V2?color=blue&style=flat-square"></a>
