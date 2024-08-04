@@ -1,53 +1,32 @@
-# Mugabe-md
-master chief
-+263771341158 <
-Here's a format for a README file:
+<h1 align="center">𐋐﹍𖼜﹍𖼜﹍ 𝙷𝚒𝚎 𝚝𝚑𝚎𝚛𝚎 𝚊𝚖 ﹍𐋐﹍𐋐﹍𖼜𖼜﹍☀ 𐋐﹍𖼜﹍𖼜﹍ 𝚖𝚊𝚜𝚝𝚎𝚛 𝚌𝚑𝚒𝚎𝚏 ﹍𐋐﹍𐋐﹍𖼜𖼜﹍☀</h1>
+<h3 align="center">▂▃▅▇█▓▒░𝚖𝚊𝚜𝚝𝚎𝚛𝚌𝚑𝚒𝚎𝚏 𝚝𝚑𝚊 𝚜𝚑𝚊𝚍𝚘𝚠 𝚔𝚒𝚕𝚕𝚎𝚛 𝚔𝚒𝚕𝚕 𝚐𝚛𝚊𝚟𝚎𝚜░▒▓█▇▅▃▂</h3>
 
-*Bot Name*
+- 🔭 I’m currently working on [masterchief](https://github.com/masterchiefcyber/Mugabe-md)
 
-*Description*
+- 🌱 I’m currently learning **js,nodde etc**
 
-- Briefly describe your bot and its purpose
+- 👯 I’m looking to collaborate on [Mugabe-md](https://github.com/masterchiefcyber/Mugabe-md)
 
-*Setup*
+- 🤝 I’m looking for help with [Mugabe md](https://github.com/masterchiefcyber/Mugabe-md)
 
-- *Environment Variables*: List required environment variables (e.g., `PORT`, `TOKEN`)
-- *Dependencies*: List required dependencies (e.g., `node`, `npm`, `discord.js`)
-- *Installation*: Provide installation instructions (e.g., `npm install`)
+- 👨‍💻 All of my projects are available at [https://github.com/masterchiefcyber/Mugabe-md](https://github.com/masterchiefcyber/Mugabe-md)
 
-*Usage*
+- 📝 I regularly write articles on [https://github.com/masterchiefcyber/Mugabe-md](https://github.com/masterchiefcyber/Mugabe-md)
 
-- *Commands*: List available commands and their usage (e.g., `!help`, `!ping`)
-- *Examples*: Provide examples of command usage
+- 💬 Ask me about **the journey**
 
-*Features*
+- 📫 How to reach me **Masterchiefcyber@gmail.com wa/me/0771341158**
 
-- List key features of your bot (e.g., "Responds to messages", "Supports multiple platforms")
+- 📄 Know about my experiences [+263771341158](+263771341158)
 
-*Configuration*
+- ⚡ Fun fact **✶ 🎀 𝐻𝒾𝑒 𝓉𝒽𝑒𝓇𝑒 𝒶𝓂 𝓂𝒶𝓈𝓉𝑒𝓇 𝒸𝒽𝒾𝑒𝒻 𝓉𝒽𝑒 𝒷💗𝓉 𝒹𝑒𝓈𝒾𝑔𝓃𝑒𝓇 𝓂𝓊𝑔𝒶𝒷𝑒 🎀 ✶**
 
-- *Customizable Settings*: List customizable settings (e.g., `prefix`, `timezone`)
-- *Configuration File*: Describe the configuration file format (e.g., JSON, YAML)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-*Troubleshooting*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scully.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-- *Common Issues*: List common issues and their solutions
-- *Error Messages*: Explain error messages and how to resolve them
-
-*Contribute*
-
-- *Contributing Guidelines*: Describe how to contribute to the project (e.g., fork, pull request)
-- *Code of Conduct*: Link to a code of conduct document (if applicable)
-
-*License*
-
-- *License Type*: State the license type (e.g., MIT, Apache)
-- *License Text*: Include the license text or link to it
-
-*Contact*
-
-- *Email*: Provide an email address for contact
-- *Discord Server*: Invite link to a Discord server (if applicable)
-- *GitHub Repository*: Link to the GitHub repository
-
-Remember to customize this format to fit your bot's specific needs!
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/The coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="The coffee" /></a><a href="https://ko-fi.com/𝐂𝐲𝐛𝐞𝐫 𝐒𝐡𝐞𝐥𝐥𝐚𝐡"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="𝐂𝐲𝐛𝐞𝐫 𝐒𝐡𝐞𝐥𝐥𝐚𝐡" /></a></p><br><br>
