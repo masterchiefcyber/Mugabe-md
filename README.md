@@ -50,8 +50,6 @@ Mugabe-MD
     <br>
     <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 ## Watch Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/PFYaqnuFKi8?si=clmY9NehWGACP1AM)
-
 
 ### 
     <h2 align="center"> ⚠️ NOTE  </h2>
